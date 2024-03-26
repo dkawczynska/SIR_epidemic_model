@@ -27,7 +27,7 @@ Two numerical methods have been implemented: the third-order Runge-Kutta method 
 
 ## Interactive Report
 <div style="text-align: justify">
-An interactive report has been created where you can modify the parameters \( \beta \), \( \gamma \), \( \nu \) to track the development of the pandemic
+An interactive report has been created where you can modify the parameters β, γ, ν to track the development of the pandemic
 </div>
 
 ![](Interactive_model.png)
